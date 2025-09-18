@@ -40,5 +40,3 @@ A scalable social media platform enabling authentication, content sharing, perso
 - View Posts from Followed Users and React to Them  
 - Update / Edit Profile Page  
 - Continuous Integration & Deployment with GitHub Actions  
-
----
