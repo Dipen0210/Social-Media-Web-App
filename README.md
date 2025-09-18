@@ -42,10 +42,3 @@ A scalable social media platform enabling authentication, content sharing, perso
 - Continuous Integration & Deployment with GitHub Actions  
 
 ---
-
-## Installation :
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Dipen0210/Social-Media-App.git
-   cd Social-Media-App
