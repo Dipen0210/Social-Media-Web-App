@@ -1,4 +1,4 @@
-# Connect – Full-Stack Social Media Application
+# ConNecT – Full-Stack Social Media Application
 
 A scalable social media platform enabling authentication, content sharing, personalized feeds, and real-time interactions for 100+ users.
 
